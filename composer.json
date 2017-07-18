@@ -1,6 +1,6 @@
 {
-  "name": "BenGriffiths/pdo-mysqli-pagination",
-  "version": "dev-master",
+  "name": "agking/pdo-mysqli-pagination",
+  "version": "1.0",
   "autoload": {
     "classmap": [
       "src/"
