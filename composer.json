@@ -1,6 +1,5 @@
 {
   "name": "agking/pdo-mysqli-pagination",
-  "version" : "dev-master",
   "autoload": {
     "classmap": [
       "src/"
