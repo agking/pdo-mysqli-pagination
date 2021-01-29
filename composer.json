@@ -1,5 +1,6 @@
 {
   "name": "agking/pdo-mysqli-pagination",
+  "description": "forked from BenGriffiths/pdo-mysqli-pagination",
   "license": "LGPL-2.1-or-later",
   "autoload": {
     "classmap": [
